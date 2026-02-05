@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExamenU1</string>
+    <string name="titulo">Convertidor de grados</string>
+    <string name="celcius">C°</string>
+    <string name="farenheit">F°</string>
+    <string name="kelvin">K°</string>
+    <string name="espacio"> </string>
+    <string name="info">Introduce los grados en el input de celcius y clickea el boton "C°" para mostrar la
+    conversion a Farenheit y Kelvin, funcion de igual manera para los demas osea que donde introduzcas grados
+    clickeas el boton de su medida de grados y te da la conversion de los otros 2</string>
+
+</resources>
